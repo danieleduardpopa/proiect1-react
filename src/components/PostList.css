@@ -1,0 +1,11 @@
+.post-list {
+    max-width: 1410px;
+    margin: auto;
+    margin-top: 40px;
+    margin-left: 0;
+}
+
+.post-list h2 {
+    text-align: center;
+    margin-bottom: 30px;
+}
