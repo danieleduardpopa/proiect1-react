@@ -6,7 +6,7 @@ Acesta reprezinta primul proiect don cadrul cursului JavaScript Advanced - React
 
 ## Pentru a rula local proiectul
 
-1. `git clone https://github.com/semisemizeu/proiect1-react.git`
+1. `git clone https://github.com/danieleduardpopa/proiect1-react.git`
 
 2. `cd proiect1-react`
 
